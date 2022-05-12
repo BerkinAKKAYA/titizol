@@ -274,7 +274,6 @@ Vue.createApp({
 	data() {
 		return {
 			slides: [
-				"images/slider-1.png",
 				"https://a.allegroimg.com/original/1218c3/c33628954480bec6f77fac5ba17d",
 				"https://a.allegroimg.com/original/121509/971ba3c24d469c17047a5ee767ee",
 				"https://a.allegroimg.com/original/12ddba/c2f4041645ba9936376aad850f21",
